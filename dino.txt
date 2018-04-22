@@ -1,4 +1,14 @@
 Un oso camina 10 Km. hacia el sur, 10 hacia el este y 10 hacia el norte, volviendo al punto del que partio. ¿De que color es el oso?
 Resuelvanlo erros
 
+<<<<<<< HEAD
 O; blanco
+=======
+ blanco
+
+
+Este banco esta ocupado por un padre y un hijo el padre se llama juan y el hijo ya te lo dije.
+>>>>>>> e90f59e7e980fa5a8ff6973bccded095ce48337a
+
+
+hiso se llama  "Ya te lo dije"
