@@ -18,3 +18,10 @@ s
 
 
 
+<<<<<<< HEAD
+=======
+Desde lunes hasta el viernes soy la ultima en llegar, el sabado soy la primera, y el domingo a descansar.
+
+
+la letra s
+>>>>>>> 3a09c2a7d0141c8279b6fb05f8395284a73286bc
