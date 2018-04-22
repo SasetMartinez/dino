@@ -11,4 +11,4 @@ Generar un rango entre 0 y 10
 
 
 for i in rangre(10):
-	print("i")
+	print(i)
