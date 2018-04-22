@@ -11,6 +11,10 @@ Este banco esta ocupado por un padre y un hijo el padre se llama juan y el hijo 
 >>>>>>> e90f59e7e980fa5a8ff6973bccded095ce48337a
 
 
+<<<<<<< HEAD
 hiso se llama  "Ya te lo dije"  nooooooooooooooooooooooo X_x
 
 Esteban
+=======
+hijo se llama  "hijo"
+>>>>>>> 5716405f38e766b6b3a6696b02b5040a9f765767
