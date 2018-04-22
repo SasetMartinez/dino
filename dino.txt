@@ -6,3 +6,6 @@ recibirá como premio. Si la bola aleatoria es color blanco, no hay descuento, pe
 colores, sí se aplicará un descuento determinado según la tabla que  aparecerá, y ese descuento se aplicará sobre 
 el total de compra que introdujo inicialmente el usuario, de manera que el programa mostrará un nuevo valor a pagar 
 luego de haber aplicado el descuento.
+
+
+
