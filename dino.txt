@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Este programa pide primeramente la cantidad total de compras de una persona. Si la cantidad es inferior a $100.00, 
 el programa dirá que el cliente no aplica a la promoción. Pero si la persona ingresa una cantidad en compras igual 
 o superior a $100.00, el programa genera de forma aleatoria un número entero del cero al cinco. Cada número 
@@ -9,3 +10,15 @@ luego de haber aplicado el descuento.
 
 
 
+=======
+Si la cantidad es inferior a $100.00, 
+el programa dirá que el cliente no aplica a la promoción. en caso contrario aplica a la promocion
+>>>>>>> b571fc25a3b03effee02a15b9c93bc196275f64e
+
+X=int(input())
+print("cantidad total de compra:")
+
+if X>=100:
+	print("si aplica la promocion")
+else
+	print("no aplica la promocion")	
