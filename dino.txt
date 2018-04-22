@@ -1,4 +1,14 @@
 Mostrar los caracteres de la cadena “Hola mundo”.
 
 for i in 'Hola Mundo':
+<<<<<<< HEAD
 	print(i)
+=======
+	print(i)
+
+Generar un rango entre 0 y 10
+>>>>>>> c826194eceb7fba78bde712d08ee5a0c7862f8a4
+
+
+for i in rangre(10):
+	print("i")
