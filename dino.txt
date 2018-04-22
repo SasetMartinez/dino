@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Un oso camina 10 Km. hacia el sur, 10 hacia el este y 10 hacia el norte, volviendo al punto del que partio. ¿De que color es el oso?
 Resuelvanlo erros
 
@@ -36,3 +37,13 @@ colores, sí se aplicará un descuento determinado según la tabla que  aparecerá, 
 el total de compra que introdujo inicialmente el usuario, de manera que el programa mostrará un nuevo valor a pagar 
 luego de haber aplicado el descuento.
 >>>>>>> fb068f210aea9ebcd462f6acd25ccfc8d26e9110
+=======
+Si la cantidad es inferior a $100.00, 
+el programa dirá que el cliente no aplica a la promoción. en caso contrario aplica a la promocion
+>>>>>>> b571fc25a3b03effee02a15b9c93bc196275f64e
+print("inserte cantidad")
+var=int(input())
+if var>=100:
+	print("no aplica")
+else:
+	print("si aplica")
