@@ -1,3 +1,2 @@
-oscar a salido del grupo
-
-www.minecraft.com
+Un oso camina 10 Km. hacia el sur, 10 hacia el este y 10 hacia el norte, volviendo al punto del que partio. ¿De que color es el oso?
+Resuelvanlo erros
