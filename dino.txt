@@ -1,12 +1,6 @@
 Mostrar los caracteres de la cadena “Hola mundo”.
 
-<<<<<<< HEAD
-for i in "hola mundo":
-print(i)
-=======
-for i in 'Hola Mundo':
-	print("i")
->>>>>>> 462dce0d23e56a25d1b319fa5e0bf39fd7811661
-
 for i in 'Hola Mundo':
 	print(i)
+
+Generar un rango entre 0 y 10
