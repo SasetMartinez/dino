@@ -1,4 +1,2 @@
 Mostrar los caracteres de la cadena “Hola mundo”.
 
-for i in "hola mundo":
-print(i)
